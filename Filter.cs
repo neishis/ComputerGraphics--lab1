@@ -195,5 +195,5 @@ namespace Filters
             kernel[1, 1] = 5;
         }
     }
-
+       
 }
